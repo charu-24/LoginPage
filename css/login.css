@@ -1,0 +1,11 @@
+body{
+    background: url(../images/architecture-bay-blue-sky-275582.jpg)
+        no-repeat center center ;
+    color:aliceblue
+    
+}
+button
+{
+ width: 90px;
+border-radius: 45px;    
+}
